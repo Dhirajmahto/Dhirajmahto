@@ -8,22 +8,22 @@
 ---
 
 ### 🔥 About Me:
-- 🚀 I’m currently working on **Job Portal** 🏗️
+- 🚀 I’m currently working on **Job Portal** 🏠
 - 🌱 I’m learning **Java, DSA, Advanced Java, System Design**
 - 👯 Looking to collaborate on **Full-Stack Development Projects**
-- 🤝 Seeking help with **Data Structures & Algorithms**
+- 🧑‍🔬 Seeking help with **Data Structures & Algorithms**
 - 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js), Java, MySQL**
-- 📫 How to reach me: **dhirajkumar7209535435@gmail.com**
+- 💌 How to reach me: **dhirajkumar7209535435@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhirajkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/___.dhiraj.____" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/c/@dhiraj123-f5k" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/dhirajkumar" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.leetcode.com/dhirajkumar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/dhirajkumar123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Dhiraj123-f5k" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/dk8613401" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 ---
