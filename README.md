@@ -5,25 +5,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%7C+DSA;Always+learning+and+exploring+new+technologies!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca8c1865e3d0fd51b6b8ec5ddf.gif" width="500" alt="Developer Image" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajmahto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🔥 About Me:
-- 🚀 I’m currently working on **Job Portal** 🏠
-- 🌱 I’m learning **Java, DSA, Advanced Java, System Design**
-- 👯 Looking to collaborate on **Full-Stack Development Projects**
-- 🧑‍🔬 Seeking help with **Data Structures & Algorithms**
-- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js), Java, MySQL**
+- 🚀 I’m currently working on **Job Portal** 🏠  
+- 🌱 I’m learning **Java, DSA, Advanced Java, System Design**  
+- 👯 Looking to collaborate on **Full-Stack Development Projects**  
+- 🧑‍🔬 Seeking help with **Data Structures & Algorithms**  
+- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js), Java, MySQL**  
 - 💌 How to reach me: **dhirajkumar7209535435@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dhirajkumar123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@Dhiraj123-f5k" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/dk8613401" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/dhirajkumar123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Dhiraj123-f5k" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/dk8613401" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -36,17 +54,18 @@
 ---
 
 <h3 align="left">🚀 Projects:</h3>
-- **Job Portal** (Full-Stack Web App) 🌍
-  - Tech Stack: **React.js, Node.js, MongoDB, Express.js**
-  - Features: Job search, apply for jobs, employer dashboard
 
-- **Portfolio Website** 🎨
-  - Tech Stack: **HTML, CSS, JavaScript**
-  - Features: Personal portfolio showcasing my work & skills
+- **Job Portal** (Full-Stack Web App) 🌍  
+  Tech Stack: **React.js, Node.js, MongoDB, Express.js**  
+  Features: Job search, apply for jobs, employer dashboard  
 
-- **E-commerce Website** 🛒
-  - Tech Stack: **MERN Stack**
-  - Features: User authentication, cart management, payment integration
+- **Portfolio Website** 🎨  
+  Tech Stack: **HTML, CSS, JavaScript**  
+  Features: Personal portfolio showcasing my work & skills  
+
+- **E-commerce Website** 🛒  
+  Tech Stack: **MERN Stack**  
+  Features: User authentication, cart management, payment integration  
 
 ---
 
