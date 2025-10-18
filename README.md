@@ -37,9 +37,9 @@ My focus is on building scalable applications ✦ solving problems ✦ and writi
 
 <h3 align="left">🚀 Tech Journey & Aspirations</h3>
 
-- 🎓 B.Tech Student at **NIT Jaipur**  
-- 💻 Skilled in **Full Stack Development** (React, Node.js, TypeScript, Supabase, Tailwind, MongoDB, Java)  
-- 🚀 Built impactful projects like **Pebly (URL Shortener)**, **API Key Management System**, and **Donation Transparency Tracker**  
+- 🎓 B.Tech Student at **CUTM ODISHA**  
+- 💻 Skilled in **Full Stack Development** (React, Node.js, TypeScript, Springboot, Tailwind, MongoDB, Java)  
+- 🚀 Built impactful projects like **Smart Email Assistant**, **Ai- based Fintness Trecker**, and **Donation Transparency Tracker**  
 - 🏆 Hackathon builder ✦ love prototyping fast with **AI-powered IDEs**  
 - 🌱 Constantly learning **new frameworks, DevOps tools, and serverless technologies**  
 - 🔍 Actively looking for **SDE Internships & Job opportunities**  
@@ -54,7 +54,7 @@ My focus is on building scalable applications ✦ solving problems ✦ and writi
 
 <h3 align="left">🛠️ Featured Projects</h3>
 
-### 🔗 Pebly – Smart URL Shortener  
+### 🔗 Smart Email Assistant 
 A fast, minimal, and memorable **short URL generator**.  
 - Built with **React.js, Node.js, MongoDB**  
 - Focused on **simplicity and branding**  
@@ -62,7 +62,7 @@ A fast, minimal, and memorable **short URL generator**.
 
 ---
 
-### 🔑 API Key Management System  
+### 🔑 AI Fitness Tracker
 A secure dashboard to **store, manage, and track API keys** with real-time usage insights.  
 - Backend: **Java + MongoDB**  
 - Feature-rich dashboard with **realtime tracking**  
