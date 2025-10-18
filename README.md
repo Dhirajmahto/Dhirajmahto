@@ -1,87 +1,142 @@
-<h1 align="center">Hi 👋, I'm Dhiraj!</h1>
-<h3 align="center">A Passionate Full Stack Developer 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%7C+DSA;Always+learning+and+exploring+new+technologies!" alt="Typing SVG" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Lahori-Venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="Lahori Venkatesh" /> 
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca8c1865e3d0fd51b6b8ec5ddf.gif" width="500" alt="Developer Image" />
-</p>
+<h1 align="center">Hello, I'm Dhiraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhirajmahto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://drive.google.com/uc?export=view&id=1ftjM5-DjjUFk0uh0nC7b5h3pxN1wbwBs" alt="Coding Banner" width="1000" />
 </p>
 
 ---
 
-### 🔥 About Me:
-- 🚀 I’m currently working on **Job Portal** 🏠  
-- 🌱 I’m learning **Java, DSA, Advanced Java, System Design**  
-- 👯 Looking to collaborate on **Full-Stack Development Projects**  
-- 🧑‍🔬 Seeking help with **Data Structures & Algorithms**  
-- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js), Java, MySQL**  
-- 💌 How to reach me: **dhirajkumar7209535435@gmail.com**
+<h3 align="left">👨💻 About Me</h3>
+
+<p style="font-size: 18px;">
+<strong>
+I am a Full Stack Developer and Software Engineering enthusiast.  
+My focus is on building scalable applications ✦ solving problems ✦ and writing clean, efficient code.  
+</strong>
+</p>
+
+<ul>
+  <li>➜ I blend engineering with creativity to build products that delight users.</li>
+  <li>➜ Debugging and problem-solving are at the heart of my workflow.</li>
+  <li>➜ I aim to create real-world impact through technology.</li>
+</ul>
+
+<p align="center">
+  <strong>
+    🛠️ Debugging challenges with persistence & precision:  
+    <br>
+    <code>"Think of me as a builder ✦ scaling ideas into reliable software."</code>
+  </strong>
+</p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🚀 Tech Journey & Aspirations</h3>
+
+- 🎓 B.Tech Student at **NIT Jaipur**  
+- 💻 Skilled in **Full Stack Development** (React, Node.js, TypeScript, Supabase, Tailwind, MongoDB, Java)  
+- 🚀 Built impactful projects like **Pebly (URL Shortener)**, **API Key Management System**, and **Donation Transparency Tracker**  
+- 🏆 Hackathon builder ✦ love prototyping fast with **AI-powered IDEs**  
+- 🌱 Constantly learning **new frameworks, DevOps tools, and serverless technologies**  
+- 🔍 Actively looking for **SDE Internships & Job opportunities**  
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lahori Venkatesh Resume" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Featured Projects</h3>
+
+### 🔗 Pebly – Smart URL Shortener  
+A fast, minimal, and memorable **short URL generator**.  
+- Built with **React.js, Node.js, MongoDB**  
+- Focused on **simplicity and branding**  
+👉 [View Project](#)
+
+---
+
+### 🔑 API Key Management System  
+A secure dashboard to **store, manage, and track API keys** with real-time usage insights.  
+- Backend: **Java + MongoDB**  
+- Feature-rich dashboard with **realtime tracking**  
+👉 [View Project](#)
+
+---
+
+### 📊 Donation Transparency Tracker  
+A platform ensuring **donors see exactly how their contributions are used**.  
+- Features: Donor recognition, NGO proof uploads, social leaderboard  
+- Tech: **MERN Stack**  
+👉 [View Project](#)
+
+---
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhirajkumar123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Dhiraj123-f5k" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dk8613401" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3 align="left">🔥 Streak Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahori-Venkatesh&theme=neon-dark" alt="leonik2367" />
+</p>
+
+---
+
+<h3 align="left">💻 GitHub Profile Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahori-Venkatesh&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahori-venkatesh&langs_count=10&show_icons=true&locale=en&theme=neon" height="230px"/>
+</p>
+
+---
+
+<h3 align="left">⚡ Recent GitHub Activity</h3>
+
+[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahori-Venkatesh&theme=github-compact)](https://github.com/lahori-venkatesh/github-readme-activity-graph)
+
+---
+
+<h3 align="left">🏆 GitHub Profile Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lahori-Venkatesh&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
+</p>
+
+---
+
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,postgresql,html,css,js,ts,git,github,aws,docker,vscode,linux" />
+<a href="https://www.linkedin.com/in/laohorivenkatesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:lahorivenkatesh709@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/leonik2367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/leonik2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">🚀 Projects:</h3>
-
-- **Job Portal** (Full-Stack Web App) 🌍  
-  Tech Stack: **React.js, Node.js, MongoDB, Express.js**  
-  Features: Job search, apply for jobs, employer dashboard  
-
-- **Portfolio Website** 🎨  
-  Tech Stack: **HTML, CSS, JavaScript**  
-  Features: Personal portfolio showcasing my work & skills  
-
-- **E-commerce Website** 🛒  
-  Tech Stack: **MERN Stack**  
-  Features: User authentication, cart management, payment integration  
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajmahto&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajmahto&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajmahto&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">🚀 Keep Learning, Keep Growing! 🚀</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
