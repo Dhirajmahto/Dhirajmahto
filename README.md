@@ -107,8 +107,8 @@ A platform ensuring **donors see exactly how their contributions are used**.
 <h3 align="left">💻 GitHub Profile Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahori-Venkatesh&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lahori-venkatesh&langs_count=10&show_icons=true&locale=en&theme=neon" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Kumar&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-kumar&langs_count=10&show_icons=true&locale=en&theme=neon" height="230px"/>
 </p>
 
 ---
