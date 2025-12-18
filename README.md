@@ -1,142 +1,161 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Lahori-Venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="Lahori Venkatesh" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dhirajmahto&label=Profile%20views&color=0e75b6&style=flat" alt="Dhiraj Mahto" />
 </p>
 
-<h1 align="center">Hello, I'm Dhiraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Dhiraj Mahto 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">
+Backend Engineer • Java & Spring Boot • Microservices • DevOps
+</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ftjM5-DjjUFk0uh0nC7b5h3pxN1wbwBs" alt="Coding Banner" width="1000" />
+  <img src="https://drive.google.com/uc?export=view&id=1ftjM5-DjjUFk0uh0nC7b5h3pxN1wbwBs" width="1000"/>
 </p>
 
 ---
 
-<h3 align="left">👨💻 About Me</h3>
+## 👨‍💻 About Me
 
-<p style="font-size: 18px;">
-<strong>
-I am a Full Stack Developer and Software Engineering enthusiast.  
-My focus is on building scalable applications ✦ solving problems ✦ and writing clean, efficient code.  
-</strong>
+<p>
+I am a <b>Backend-focused Software Engineer</b> with strong foundations in <b>Java, Spring Boot, REST APIs</b> and backend system design.  
+I enjoy building <b>scalable, secure, and production-grade applications</b> that solve real-world problems.
 </p>
 
 <ul>
-  <li>➜ I blend engineering with creativity to build products that delight users.</li>
-  <li>➜ Debugging and problem-solving are at the heart of my workflow.</li>
-  <li>➜ I aim to create real-world impact through technology.</li>
+  <li>✔ Strong in Java, OOPs, Collections & Backend Architecture</li>
+  <li>✔ Hands-on with Spring Boot, JPA, Security & REST APIs</li>
+  <li>✔ Learning Microservices, Kafka, Docker & Kubernetes</li>
+  <li>✔ Believe in clean code, scalability & consistency</li>
 </ul>
 
 <p align="center">
-  <strong>
-    🛠️ Debugging challenges with persistence & precision:  
-    <br>
-    <code>"Think of me as a builder ✦ scaling ideas into reliable software."</code>
-  </strong>
+  <b>"I don't just write code — I engineer reliable backend systems."</b>
 </p>
 
 ---
 
-<h3 align="left">🚀 Tech Journey & Aspirations</h3>
+## 🚀 Tech Journey & Career Focus
 
-- 🎓 B.Tech Student at **CUTM ODISHA**  
-- 💻 Skilled in **Full Stack Development** (React, Node.js, TypeScript, Springboot, Tailwind, MongoDB, Java)  
-- 🚀 Built impactful projects like **Smart Email Assistant**, **Ai- based Fintness Trecker**, and **Donation Transparency Tracker**  
-- 🏆 Hackathon builder ✦ love prototyping fast with **AI-powered IDEs**  
-- 🌱 Constantly learning **new frameworks, DevOps tools, and serverless technologies**  
-- 🔍 Actively looking for **SDE Internships & Job opportunities**  
+- 🎓 **B.Tech (CSE)** – Centurion University, Odisha  
+- 💻 Backend specialization in **Java + Spring Boot**
+- 🧠 Exploring **System Design & Distributed Systems**
+- 🏗️ Building real-world backend projects
+- 🎯 Target Role: **Backend / Full Stack Developer**
+- 🔍 Open to **SDE / Backend Developer opportunities**
 
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lahori Venkatesh Resume" />
+  <a href="https://drive.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Featured Projects</h3>
+## 🛠️ Featured Projects
 
-### 🔗 Smart Email Assistant 
-A fast, minimal, and memorable **short URL generator**.  
-- Built with **React.js, Node.js, MongoDB**  
-- Focused on **simplicity and branding**  
-👉 [View Project](#)
+### 🚀 Backend Engineering Roadmap (100 Days)
+End-to-end backend journey from **Java → Spring Boot → Microservices → DevOps**
 
----
+- Java Core & Advanced
+- REST APIs & Spring Boot
+- JPA / Hibernate
+- Spring Security, JWT, OAuth2
+- Microservices Architecture
+- Docker & Kubernetes
 
-### 🔑 AI Fitness Tracker
-A secure dashboard to **store, manage, and track API keys** with real-time usage insights.  
-- Backend: **Java + MongoDB**  
-- Feature-rich dashboard with **realtime tracking**  
-👉 [View Project](#)
+👉 <a href="https://github.com/Dhirajmahto/backend-engineering-java-springboot">View Repository</a>
 
 ---
 
-### 📊 Donation Transparency Tracker  
-A platform ensuring **donors see exactly how their contributions are used**.  
-- Features: Donor recognition, NGO proof uploads, social leaderboard  
-- Tech: **MERN Stack**  
-👉 [View Project](#)
+### 🏥 Hospital Management System
+Role-based full-stack system.
+
+- Tech: **Spring Boot, MySQL, Angular**
+- Admin & Doctor dashboards
+- Secure authentication & authorization
+
+👉 View Project (Coming Soon)
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🛒 E-Commerce Backend (In Progress)
+Scalable backend architecture.
+
+- Tech: **Java, Spring Boot, MySQL**
+- JWT-based authentication
+- Industry-level structure
+
+👉 View Project (In Progress)
+
+---
+
+## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
 </p>
 
 ---
 
-<h3 align="left">🔥 Streak Stats</h3>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahori-Venkatesh&theme=neon-dark" alt="leonik2367" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhirajmahto&theme=neon-dark"/>
 </p>
 
 ---
 
-<h3 align="left">💻 GitHub Profile Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhiraj-Kumar&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj-kumar&langs_count=10&show_icons=true&locale=en&theme=neon" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhirajmahto&show_icons=true&theme=react&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirajmahto&layout=compact&theme=react" height="200"/>
 </p>
 
 ---
 
-<h3 align="left">⚡ Recent GitHub Activity</h3>
-
-[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahori-Venkatesh&theme=github-compact)](https://github.com/lahori-venkatesh/github-readme-activity-graph)
-
----
-
-<h3 align="left">🏆 GitHub Profile Trophies</h3>
+## 📈 Contribution Graph (Must Have ✅)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lahori-Venkatesh&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirajmahto&theme=github-dark"/>
 </p>
+
+✔ Shows **consistency & seriousness**  
+✔ Recruiter definitely notice karta hai
 
 ---
 
-<h3 align="left">🌐 Connect with Me</h3>
+## 🏆 GitHub Trophies (4 × 4 Grid)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhirajmahto&theme=onedark&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+👉 **4 × 4 grid = balanced + clean + professional**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/laohorivenkatesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:lahorivenkatesh709@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/leonik2367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/leonik2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-<a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dhirajkumar123/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
+  </a>
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200"/>
