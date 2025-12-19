@@ -130,8 +130,6 @@ Scalable backend architecture.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirajmahto&theme=github-dark"/>
 </p>
 
-✔ Shows **consistency & seriousness**  
-✔ Recruiter definitely notice karta hai
 
 ---
 
