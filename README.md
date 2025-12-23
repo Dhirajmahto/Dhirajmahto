@@ -124,7 +124,7 @@ Scalable backend architecture.
 
 ---
 
-## 📈 Contribution Graph (Must Have ✅)
+## 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirajmahto&theme=github-dark"/>
@@ -133,27 +133,47 @@ Scalable backend architecture.
 
 ---
 
-## 🏆 GitHub Trophies (4 × 4 Grid)
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhirajmahto&theme=onedark&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-👉 **4 × 4 grid = balanced + clean + professional**
-
 ---
+
+### 🧠 4. Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhirajmahto&theme=github_dark"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhirajkumar123/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Mahto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/>
+  &nbsp;&nbsp;
+  <a href="mailto:dhirajkumardev05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dhirajkumardev05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/919993157" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Dhiraj_Kumar123/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Dhiraj_Kumar123-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💼 Open to Backend / SDE / Full Stack Opportunities</b><br/>
+  <i>Let’s build scalable, secure, and impactful backend systems together.</i>
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200"/>
+</p>
